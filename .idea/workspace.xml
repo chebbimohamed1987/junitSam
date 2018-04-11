@@ -12,16 +12,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Testdrivendevelopment$All_in_Testdrivendevelopment__1_.ic" NAME="All in Testdrivendevelopment (1) Coverage Results" MODIFIED="1523443965129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
-    <SUITE FILE_PATH="coverage/Testdrivendevelopment$TestFood.ic" NAME="FoodTest Coverage Results" MODIFIED="1523440921862" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>entities.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/Testdrivendevelopment$All_in_Testdrivendevelopment.ic" NAME="All in Testdrivendevelopment Coverage Results" MODIFIED="1523444302288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/Testdrivendevelopment$All_in_Testdrivendevelopment__3_.ic" NAME="All in Testdrivendevelopment (3) Coverage Results" MODIFIED="1523444191422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Testdrivendevelopment$All_in_Testdrivendevelopment__1_.ic" NAME="All in Testdrivendevelopment (1) Coverage Results" MODIFIED="1523443965129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Testdrivendevelopment$All_in_Testdrivendevelopment.ic" NAME="All in Testdrivendevelopment Coverage Results" MODIFIED="1523444302288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Testdrivendevelopment$All_in_Testdrivendevelopment__2_.ic" NAME="All in Testdrivendevelopment (2) Coverage Results" MODIFIED="1523444145903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/Testdrivendevelopment$HumanTest.ic" NAME="HumanTest Coverage Results" MODIFIED="1523440881431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>entities.*</FILTER>
     </SUITE>
-    <SUITE FILE_PATH="coverage/Testdrivendevelopment$All_in_Testdrivendevelopment__2_.ic" NAME="All in Testdrivendevelopment (2) Coverage Results" MODIFIED="1523444145903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Testdrivendevelopment$TestFood.ic" NAME="FoodTest Coverage Results" MODIFIED="1523440921862" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>entities.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Testdrivendevelopment$All_in_Test_driven_development.ic" NAME="All in Test-driven-development Coverage Results" MODIFIED="1523450306106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="CoverageOptionsProvider">
     <option name="myAddOrReplace" value="1" />
@@ -209,6 +210,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -239,9 +241,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.All in Testdrivendevelopment">
+  <component name="RunManager" selected="JUnit.All in Test-driven-development">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="All in Test-driven-development" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Test-driven-development" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
     </configuration>
     <configuration name="All in Testdrivendevelopment (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Testdrivendevelopment" />
@@ -317,29 +336,6 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="NoFormatNameExceptionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Testdrivendevelopment" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="exception.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="exception" />
-      <option name="MAIN_CLASS_NAME" value="exception.NoFormatNameExceptionTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -379,19 +375,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="JUnit.NoFormatNameExceptionTest" />
       <item itemvalue="JUnit.All in Testdrivendevelopment (2)" />
       <item itemvalue="JUnit.All in Testdrivendevelopment (3)" />
       <item itemvalue="JUnit.HumanTest.setNameException" />
       <item itemvalue="JUnit.All in Testdrivendevelopment" />
+      <item itemvalue="JUnit.All in Test-driven-development" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.All in Test-driven-development" />
         <item itemvalue="JUnit.All in Testdrivendevelopment" />
         <item itemvalue="JUnit.HumanTest.setNameException" />
         <item itemvalue="JUnit.All in Testdrivendevelopment (3)" />
         <item itemvalue="JUnit.All in Testdrivendevelopment (2)" />
-        <item itemvalue="JUnit.NoFormatNameExceptionTest" />
       </list>
     </recent_temporary>
   </component>
